@@ -1,0 +1,11 @@
+{
+  "name": "mydta",
+  "version": "1.0.0",
+  "description": "Common algot=rithms and data structures",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Emmanuel Pali",
+  "license": "ISC"
+}
